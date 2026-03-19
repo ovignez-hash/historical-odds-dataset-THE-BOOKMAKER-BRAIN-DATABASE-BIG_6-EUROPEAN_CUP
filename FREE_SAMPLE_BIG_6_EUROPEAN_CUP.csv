@@ -1,0 +1,51 @@
+﻿Country;League;Date;Statut;Home_Team;Away_Team;Home_Goal;Away_Goal;Pen.;Closing_Odds_Home;Closing_Odds_Draw;Closing_Odds_Away;FTR;Interval;Exact number of goals;Winning margin;Number of goals;BTTS
+England;League One;09/01/1998;;Bournemouth;Blackpool;1;1;;1.65;3.3;5;Draw;2 | 3;2;0;- | 2.5;Yes
+England;League One;09/01/1998;;Burnley;Millwall;2;1;;2.45;2.95;2.95;Home;2 | 3;3;1;- | 3.5;Yes
+England;League One;09/01/1998;;Gillingham;Wrexham;4;0;;2.35;2.95;3.15;Home;4 | 6;4;3_or_+;+ | 3.5;No
+England;League Two;09/01/1998;;Carlisle;Southend;3;0;;2.29;3;3.15;Home;2 | 3;3;3_or_+;- | 3.5;No
+England;League Two;09/01/1998;;Chester City;Cambridge Utd;0;3;;2.45;2.95;2.9;Away;2 | 3;3;3_or_+;- | 3.5;No
+England;League Two;09/01/1998;;Torquay;Leyton Orient;1;1;;2.25;3;3.25;Draw;2 | 3;2;0;- | 2.5;Yes
+Europe;Europa League;10/01/1998;;Rangers;Beitar Jerusalem;4;2;;1.25;5.5;9.99;Home;4 | 6;6;2;+ | 4.5;Yes
+England;Championship;11/01/1998;;Bolton;Sunderland;0;3;;2.9;2.9;3;Away;2 | 3;3;3_or_+;- | 3.5;No
+England;Premier League;11/01/1998;;Middlesbrough;Nottingham;1;1;;1.6;3.3;6;Draw;2 | 3;2;0;- | 2.5;Yes
+Germany;2. Bundesliga;11/01/1998;;Hannover;Dusseldorf;0;2;;1.7;3.15;5.25;Away;2 | 3;2;2;- | 2.5;No
+Germany;2. Bundesliga;11/01/1998;;Karlsruher Sc;Greuther Furth;1;0;;1.7;3.1;5.5;Home;0 | 1;1;1;- | 2.5;No
+Germany;2. Bundesliga;11/01/1998;;St. Pauli;Cottbus;1;1;;2;3;3.7;Draw;2 | 3;2;0;- | 2.5;Yes
+Germany;2. Bundesliga;11/01/1998;;Ulm;Fortuna Koln;3;3;;1.65;3.3;5.6;Draw;4 | 6;6;0;+ | 4.5;Yes
+Germany;Bundesliga;11/01/1998;;Hertha Berlin;Nurnberg;3;0;;1.7;3.15;5.25;Home;2 | 3;3;3_or_+;- | 3.5;No
+Italy;Serie A;11/01/1998;;Empoli;Perugia;2;0;;2.25;2.95;3.4;Home;2 | 3;2;2;- | 2.5;No
+Italy;Serie A;11/01/1998;;Inter;Bari;2;3;;1.35;4.59;8.5;Away;4 | 6;5;1;+ | 4.5;Yes
+Italy;Serie A;11/01/1998;;Juventus;Sampdoria;2;0;;1.4;4;7.5;Home;2 | 3;2;2;- | 2.5;No
+Italy;Serie A;11/01/1998;;L.R. Vicenza;Cagliari;2;1;;2.1;2.9;4;Home;2 | 3;3;1;- | 3.5;Yes
+Italy;Serie A;11/01/1998;;Piacenza;Ac Milan;1;1;;3.6;2.85;2.35;Draw;2 | 3;2;0;- | 2.5;Yes
+Italy;Serie A;11/01/1998;;Salernitana;Lazio;1;0;;3.9;3;2;Home;0 | 1;1;1;- | 2.5;No
+Italy;Serie B;11/01/1998;;Cesena;Pescara;1;1;;2.45;2.65;3.3;Draw;2 | 3;2;0;- | 2.5;Yes
+Italy;Serie B;11/01/1998;;Cremonese;Lecce;0;2;;2.65;2.6;3;Away;2 | 3;2;2;- | 2.5;No
+Italy;Serie B;11/01/1998;;Fidelis Andria;Chievo;0;1;;2.2;2.6;4.2;Away;0 | 1;1;1;- | 2.5;No
+Italy;Serie B;11/01/1998;;Genoa;Cosenza;0;0;;1.85;2.75;4.8;Draw;0 | 1;0;0;- | 2.5;No
+Italy;Serie B;11/01/1998;;Lucchese;Torino;0;1;;2.95;2.5;2.7;Away;0 | 1;1;1;- | 2.5;No
+Italy;Serie B;11/01/1998;;Reggiana;Monza;1;1;;1.75;2.7;5.5;Draw;2 | 3;2;0;- | 2.5;Yes
+Italy;Serie B;11/01/1998;;Ternana;Napoli;2;1;;2.85;2.6;2.85;Home;2 | 3;3;1;- | 3.5;Yes
+Italy;Serie B;11/01/1998;;Verona;Ravenna;4;0;;1.85;2.85;4.8;Home;4 | 6;4;3_or_+;+ | 3.5;No
+Portugal;Liga Portugal;11/01/1998;;Academica;Vitoria Guimaraes;1;1;;2.5;2.85;3;Draw;2 | 3;2;0;- | 2.5;Yes
+Portugal;Liga Portugal;11/01/1998;;Chaves;Alverca;1;1;;1.9;3;4.4;Draw;2 | 3;2;0;- | 2.5;Yes
+Portugal;Liga Portugal;11/01/1998;;Estrela;Sc Farense;2;1;;1.7;3.3;5.25;Home;2 | 3;3;1;- | 3.5;Yes
+Portugal;Liga Portugal;11/01/1998;;Sc Campomaiorense;Braga;2;0;;2.2;2.85;3.7;Home;2 | 3;2;2;- | 2.5;No
+Portugal;Liga Portugal;11/01/1998;;Vitoria Setubal;Boavista;1;3;;3.3;2.85;2.4;Away;4 | 6;4;2;+ | 3.5;Yes
+Portugal;Liga Portugal 2;11/01/1998;;Bsad;Varzim;2;1;;2.4;2.9;3;Home;2 | 3;3;1;- | 3.5;Yes
+Portugal;Liga Portugal 2;11/01/1998;;Estoril;Feirense;1;0;;2;3;4;Home;0 | 1;1;1;- | 2.5;No
+Portugal;Liga Portugal 2;11/01/1998;;Leca;Santa Clara;0;0;;1.9;3;4;Draw;0 | 1;0;0;- | 2.5;No
+Portugal;Liga Portugal 2;11/01/1998;;Maia;Gil Vicente;0;0;;4.09;3.05;1.9;Draw;0 | 1;0;0;- | 2.5;No
+Portugal;Liga Portugal 2;11/01/1998;;Moreirense;Pacos Ferreira;0;1;;2;3;4;Away;0 | 1;1;1;- | 2.5;No
+Portugal;Liga Portugal 2;11/01/1998;;Naval;Aves;2;1;;1.85;3.15;4.3;Home;2 | 3;3;1;- | 3.5;Yes
+Portugal;Liga Portugal 2;11/01/1998;;Penafiel;Felgueiras;0;0;;2.1;2.95;3.9;Draw;0 | 1;0;0;- | 2.5;No
+Portugal;Liga Portugal 2;11/01/1998;;Sc Espinho;Esposende;1;1;;1.7;3.2;5;Draw;2 | 3;2;0;- | 2.5;Yes
+Portugal;Liga Portugal 2;11/01/1998;;U. Madeira;Uniao Lamas;0;0;;2;3;4;Draw;0 | 1;0;0;- | 2.5;No
+Spain;Laliga;11/01/1998;;Dep. La Coruna;Mallorca;1;1;;2.2;2.9;3.5;Draw;2 | 3;2;0;- | 2.5;Yes
+Spain;Laliga;11/01/1998;;Valladolid;Oviedo;2;1;;2;3.05;4.09;Home;2 | 3;3;1;- | 3.5;Yes
+Spain;Laliga;11/01/1998;;Villarreal;Tenerife;2;5;;2.2;2.95;3.6;Away;7 | +;7;3_or_+;+ | 5;Yes
+Spain;Laliga2;11/01/1998;;Atl. Madrid B;Rayo Vallecano;1;2;;2;3.1;3.2;Away;2 | 3;3;1;- | 3.5;Yes
+Spain;Laliga2;11/01/1998;;Cd Badajoz;Malaga;2;0;;2.9;2.9;2.45;Home;2 | 3;2;2;- | 2.5;No
+Spain;Laliga2;11/01/1998;;Eibar;Compostela;1;3;;2.65;2.85;2.85;Away;4 | 6;4;2;+ | 3.5;Yes
+Spain;Laliga2;11/01/1998;;Gijon;Numancia;0;2;;3;3.1;2.2;Away;2 | 3;2;2;- | 2.5;No
+Spain;Laliga2;11/01/1998;;Hercules;Cp Merida;0;0;;2.29;2.85;3.6;Draw;0 | 1;0;0;- | 2.5;No
